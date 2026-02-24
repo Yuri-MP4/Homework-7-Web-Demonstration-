@@ -17,3 +17,11 @@ width: 100vw;
 .list {
 background-color: darkslateblue;
 }
+
+.fact {
+color: white;
+}
+
+.fun {
+font-style: italic;
+}
